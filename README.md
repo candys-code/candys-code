@@ -44,19 +44,16 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Computer Science and Engineering"
   ]
-company: HevoData
-
 fields_of_interests:
   [
     "Web Development",
     "Data Science",
     "DevOps"
   ]
-Experience
+Experience:
   [
     "Technical Intern - HevoData"
   ]
-  
 currently_learning: ["React Native, Cypress, Docker, Kubernetes"]
 hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
 ```
@@ -85,15 +82,11 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>   
 </p>
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
