@@ -75,7 +75,7 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
 
 ---
 <a href="https://github.com/zac-candy/github-readme-stats">
-  <img height=200  align="left" src="https://github-readme-stats.vercel.app/api?username=zac-candy&theme=blue-green" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=zac-candy&theme=blue-green" />
 </a>
 <!-- <a href="https://github.com/zac-candy/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
