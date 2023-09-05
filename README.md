@@ -82,7 +82,7 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
 </a> -->
 
 <a href="https://github.com/zac-candy/github-readme-stats">
-  <img height=200 align="right" src="https://streak-stats.demolab.com?user=zac-candy&theme=blue-green&exclude_days=Sun" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=zac-candy&theme=blue-green&exclude_days=Sun" />
 </a>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
