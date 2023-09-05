@@ -15,9 +15,9 @@
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src= "https://pbs.twimg.com/media/EWj_VDIXsAA-PHD?format=jpg&name=small">
-</p>
+</p> -->
 
 ---
 
@@ -86,6 +86,6 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
   </p>
   
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
