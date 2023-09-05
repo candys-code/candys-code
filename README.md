@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20Chandan&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
+
 <h1 align="center">
-  Let's Connect!
+Let's Connect!
 </h1>
 
 <p align="center">
@@ -78,11 +79,15 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
 
 <p align = "center">
   <a href="https://github.com/zac-candy/github-readme-stats">
-  <img height=200  width = 49.6% src="https://streak-stats.demolab.com?user=zac-candy&theme=blue-green&exclude_days=Sun" />
+  <img height=200  width = 49.6% src="https://streak-stats.demolab.com?user=zac-candy&exclude_days=Sun" />
 </a>
    <a href="https://github.com/zac-candy/convoychat">
-  <img height=200 width = 49.6% src="https://github-readme-stats.vercel.app/api/top-langs?username=zac-candy&layout=compact&langs_count=8&theme=blue-green" />
+  <img height=200 width = 49.6% src="https://github-readme-stats.vercel.app/api/top-langs?username=zac-candy&layout=compact&langs_count=8" />
 </a> 
+  </p>
+
+  <p align =  "center" >
+    <img height=200 src="https://leetcode-stats-six.vercel.app/?username=candywood" />
   </p>
   
 
