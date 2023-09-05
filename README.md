@@ -74,16 +74,18 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
 </p>
 
 ---
-<a href="https://github.com/zac-candy/github-readme-stats">
-  <img height=200 width=49.6% align="center" src="https://github-readme-stats.vercel.app/api?username=zac-candy&theme=blue-green" />
-</a>
-<!-- <a href="https://github.com/zac-candy/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a> -->
 
-<a href="https://github.com/zac-candy/github-readme-stats">
-  <img height=200 align="center" width = 49.6% src="https://streak-stats.demolab.com?user=zac-candy&theme=blue-green&exclude_days=Sun" />
+
+<p align = "center">
+  <a href="https://github.com/zac-candy/github-readme-stats">
+  <img height=200  width = 49.6% src="https://streak-stats.demolab.com?user=zac-candy&theme=blue-green&exclude_days=Sun" />
 </a>
+   <a href="https://github.com/zac-candy/convoychat">
+  <img height=200 width = 49.6% src="https://github-readme-stats.vercel.app/api/top-langs?username=zac-candy&layout=compact&langs_count=8&theme=blue-green" />
+</a> 
+  </p>
+  
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
