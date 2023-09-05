@@ -87,7 +87,9 @@ hobbies: ["Novels - Fantasy Fiction", "Cinema", "Manga", "Table Tennis"]
   </p>
 
   <p align =  "center" >
-    <img height=200 src="https://leetcode-stats-six.vercel.app/?username=candywood" />
+    <a href = "https://www.leetcode.com/candywood">
+      <img height=200 src="https://leetcode-stats-six.vercel.app/?username=candywood" />
+    </a>
   </p>
   
 
