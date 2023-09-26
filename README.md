@@ -15,14 +15,6 @@
 <br>
 
 
-<p align = "center">
-  <a href="https://github.com/zac-candy/github-readme-stats">
-  <img height=200  width = 49.6% src="https://streak-stats.demolab.com?user=zac-candy&exclude_days=Sun" />
-</a>
-   <a href="https://github.com/zac-candy/convoychat">
-  <img height=200 width = 49.6% src="https://github-readme-stats.vercel.app/api/top-langs?username=zac-candy&layout=compact&langs_count=8" />
-</a> 
-  </p>
 
   <p align =  "center" >
     <a href = "https://www.leetcode.com/candywood">
