@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Chandan </h1>
-<h2 align="center">Full Stack Developer </h3>
+<h1 align="center">Hi, I'm Chandan </h1>
+<h1 align = "center">Full Stack Developer</h1>
 
 
-<h4 align="center"> 🔭 I’m interning at Hevo Data 🌱 I’m currently learning full stack development and staying productive. ⚡ I am pretty good in table-tennis, and like reading fantasy fiction. 📖 I am currently reading The DragonBone Chair by Tad Williams </h4>
+
+<h4 align="center"> 🔭  Interning at Hevo Data 🌱 Currently learning full stack development and staying productive. ⚡ Pretty good in table-tennis, and like reading fantasy fiction. 📖 I am currently reading The DragonBone Chair by Tad Williams </h4>
 
 <h4 align="center">Lets Connect!</h3>
 <p align="center">
