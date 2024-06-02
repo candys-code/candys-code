@@ -24,10 +24,6 @@ Interests: ["High Fantasy Fiction", "Workouts"]
     </picture>
 </a>
 
-<a href="https://github.com/candys-code/github-readme-streak-stats">
-
-</a>
-
 <p align = "center">
 <a href="https://github.com/candys-code/github-readme-activity-graph">
     <picture>
