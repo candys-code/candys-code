@@ -11,7 +11,7 @@ Interests: ["High Fantasy Fiction", "Workouts"]
 </details>
 
 <details>
-<summary><samp>&#9776;</samp> Click for Stats</summary>
+<summary>Click for Stats</summary>
 <p align="center">
 <a href="https://github.com/candys-code/github-readme-stats">
     <picture>
