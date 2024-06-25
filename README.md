@@ -9,7 +9,7 @@ learning_queue: ["Docker", "Kubernetes"]
 </details>
 
 <details>
-<summary>Click for Stats</summary>
+<summary>Stats</summary>
 <p align="center">
 <a href="https://github.com/candys-code/github-readme-stats">
     <picture>
