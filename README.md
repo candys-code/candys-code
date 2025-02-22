@@ -21,6 +21,7 @@ learning_queue: ["Docker", "Kubernetes"]
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candys-code&hide_border=true">
     </picture>
 </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e2f8b154-77e3-46c3-899a-28822bfe2ed1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align = "center">
 <a href="https://github.com/candys-code/github-readme-activity-graph">
