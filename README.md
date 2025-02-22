@@ -11,7 +11,6 @@ learning_queue: ["Docker", "Kubernetes"]
 <details>
 <summary>Stats</summary>
 <p align="center">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e2f8b154-77e3-46c3-899a-28822bfe2ed1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <a href="https://github.com/candys-code/github-readme-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=candys-code&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
