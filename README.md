@@ -5,6 +5,8 @@ Fields_of_interests: ["Cloud", "DevOps", "CI/CD", "Data Engineering", "Full-Stac
 Currently_learning: ["React", "DVA-C02"]
 learning_queue: ["Docker", "Kubernetes"]
 ```
+[![Credly Badge](https://images.credly.com/images/e2f8b154-77e3-46c3-899a-28822bfe2ed1)](https://www.credly.com/badges/e2f8b154-77e3-46c3-899a-28822bfe2ed1)
+
 
 </details>
 
